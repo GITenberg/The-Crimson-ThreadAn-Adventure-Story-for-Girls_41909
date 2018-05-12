@@ -1,0 +1,31 @@
+_repo: The-Crimson-ThreadAn-Adventure-Story-for-Girls_41909
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41909-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Snell, Roy J. (Roy Judson)
+    alias: Snell, Roy Judson
+    birthdate: 1878
+    deathdate: 1959
+    gutenberg_agent_id: '3593'
+    url: http://www.gutenberg.org/2009/agents/3593
+description: ''
+gutenberg_issued: '2013-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Department stores -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Clerks (Retail trade) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Booksellers and bookselling -- Juvenile fiction'
+title: 'The Crimson Thread: An Adventure Story for Girls'
+url: http://www.gutenberg.org/ebooks/41909
